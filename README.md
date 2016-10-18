@@ -4,6 +4,10 @@ Andrew Heiss
 Sanford School of Public Policy, Duke University  
 October 18, 2016
 
+## Full results
+
+The results from an R Notebook are visible at [a19_expenditures.nb.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/andrewheiss/a19-regional-spending/master/a19_expenditures.nb.html)
+
 ## Data
 
 Data comes from Article 19's annual reports that include breakdowns of spending by regional purpose. This breakdown was not provided before 2011.
