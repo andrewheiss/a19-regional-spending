@@ -6,7 +6,7 @@ October 18, 2016
 
 ## Full results
 
-The results from an R Notebook are visible at [a19_expenditures.nb.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/andrewheiss/a19-regional-spending/master/a19_expenditures.nb.html)
+The results from an R Notebook are visible at [a19_expenditures.nb.html](https://rawgit.com/andrewheiss/a19-regional-spending/master/a19_expenditures.nb.html)
 
 ## Data
 
